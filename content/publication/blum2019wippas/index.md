@@ -1,16 +1,20 @@
 ---
-title: "Counting penguins with drones"
+title: "Active Learning for UAV-based Semantic Mapping"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Hermann Blum
+- Silvan Rohrbach
 - admin
+- Luca Bartolomei
+- Roland Siegwart
 
 # Author notes (optional)
 #author_notes:
 
-date: "2020-10-17T15:21:54+05:30"
+date: "2019-06-22T15:21:54+05:30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +24,13 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science Robotics*
-publication_short: In *Science Robotics*
+publication: 'In *Workshop on Informative Path Planning and Adaptive Sampling, Robotics: Science and Systems*'
+publication_short: 'In *Workshop on Informative Path Planning and Adaptive Sampling, Robotics: Science and Systems*'
 
-abstract: A multidrone path-planning algorithm enables drones to scout Adélie penguin colonies in Antarctica.
+abstract: Unmanned aerial vehicles combined with computer vision systems, such as convolutional neural networks, offer a flexible and affordable solution for terrain monitoring, mapping, and detection tasks. However, a key challenge remains the collection and annotation of training data for the given sensors, application, and mission. We introduce an informative path planning system that incorporates novelty estimation into its objective function, based on research for uncertainty estimation in deep learning. The system is designed for data collection to reduce both the number of flights and of annotated images. We evaluate the approach on real world terrain mapping data and show significantly smaller collected training dataset compared to standard lawnmower data collection techniques.
 
 
 # Summary. An optional shortened abstract.
@@ -42,7 +46,7 @@ featured: false
 #- name: Custom Link
 #  url: http://example.org
 
-url_pdf: 'https://www.science.org/doi/10.1126/scirobotics.abe7458'
+url_pdf: 'https://n.ethz.ch/~chungj/WIPPAS2019/papers/WIPPAS_paper3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

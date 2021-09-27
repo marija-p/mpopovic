@@ -1,16 +1,23 @@
 ---
-title: "Counting penguins with drones"
+title: "An Overview of Perception Methods for Horticultural Robots: From Pollination to Harvest"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Ho Soek Ahn
+- Feras Dayoub
 - admin
+- Bruce MacDonald
+- Roland Siegwart
+- Inkyu Sa
 
 # Author notes (optional)
 #author_notes:
+#- Equal contribution
+# Equal contribution
 
-date: "2020-10-17T15:21:54+05:30"
+date: "2018-06-01T15:21:54+05:30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +30,10 @@ publishDate: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science Robotics*
-publication_short: In *Science Robotics*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
-abstract: A multidrone path-planning algorithm enables drones to scout Adélie penguin colonies in Antarctica.
+abstract: 'Horticultural enterprises are becoming more sophisticated as the range of the crops they target expands. Requirements for enhanced efficiency and productivity have driven the demand for automating on-field operations. However, various problems remain yet to be solved for their reliable, safe deployment in real-world scenarios. This paper examines major research trends and current challenges in horticultural robotics. Specifically, our work focuses on sensing and perception in the three main horticultural procedures: pollination, yield estimation, and harvesting. For each task, we expose major issues arising from the unstructured, cluttered, and rugged nature of field environments, including variable lighting conditions and difficulties in fruit-specific detection, and highlight promising contemporary studies.'
 
 
 # Summary. An optional shortened abstract.
@@ -42,7 +49,7 @@ featured: false
 #- name: Custom Link
 #  url: http://example.org
 
-url_pdf: 'https://www.science.org/doi/10.1126/scirobotics.abe7458'
+url_pdf: 'https://arxiv.org/pdf/1807.03124.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
