@@ -29,7 +29,6 @@ image:
   preview_only: false
 
 authors:
-- admin
 - 吳恩達
 
 tags:
