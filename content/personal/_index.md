@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Personal
 cms_exclude: true
 
 # View.
@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+This page is currently under construction. :)
