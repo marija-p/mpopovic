@@ -29,6 +29,7 @@ module:
 ## ADVANCED
 ############################
 
+pluralizeListTitles: false
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

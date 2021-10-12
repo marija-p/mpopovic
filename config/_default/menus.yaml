@@ -14,7 +14,7 @@ main:
     url: 'publication'
     weight: 30
   - name: Teaching
-    url: ' '
+    url: 'teaching'
     weight: 40
   - name: Personal
     url: ' '
