@@ -74,4 +74,4 @@ authors:
 
 ---
 
-Hey, I'm Liren.
+I am a Doctoral student working on mobile robot perception. My research focuses on probabilistic mapping approaches, which enable mobile robots to understand their working environment and make decisions autonomously.

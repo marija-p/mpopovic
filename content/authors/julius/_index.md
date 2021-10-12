@@ -75,4 +75,4 @@ authors:
 
 ---
 
-Hey, I'm Julius.
+I am a Doctoral student in Robotics with a focus on active sensing and reinforcement learning. Currently, I am working on planning and coordination algorithms for single- and multi-robot applications in agriculture. My research aims to enable autonomous decision-making for agricultural robots and automated field monitoring and intervention.

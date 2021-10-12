@@ -31,13 +31,13 @@ slides:
 
 | Lecture      |   |    |
 | ----------- | ----------- |  ----------- |
-| What is Planning?      |  &nbsp; [Video](https://youtu.be/M71-2VtXbXM)       &nbsp; |   &nbsp; Slides  &nbsp; |
-| What is Decision-Making?      |  &nbsp; [Video](https://youtu.be/DEv-ahz8DAg)       &nbsp; |   &nbsp; Slides  &nbsp; |
-| Search-based Methods      |  &nbsp; [Video](https://youtu.be/0MpUAHUEXX0)       &nbsp; |  &nbsp; Slides  &nbsp; |
-| Sampling-based Methods      |  &nbsp; [Video](https://youtu.be/CrQJAtPn8sY)       &nbsp; |  &nbsp; Slides  &nbsp; |
-| Reinforcement Learning      |  &nbsp; [Video](https://youtu.be/wqZ7xeXFtWI)       &nbsp; |  &nbsp; Slides  &nbsp; |
-| Decision-Making Under Uncertainty      |  &nbsp; [Video](https://youtu.be/0Bqe_58aSVQ)      |  &nbsp; Slides  &nbsp; |
-| Exploration and Informative Planning   &nbsp; &nbsp;  &nbsp;  &nbsp;   |  &nbsp; [Video](https://youtu.be/3w5YIYN-y8o)      &nbsp; |  &nbsp; Slides   &nbsp; |
-| Multi-Robot Planning      |  &nbsp; [Video](https://youtu.be/Wcvw8qyUan8)     &nbsp;  |  &nbsp; Slides  &nbsp; |
+| What is Planning?      |  &nbsp; [Video](https://youtu.be/M71-2VtXbXM)       &nbsp; |   &nbsp; {{% staticref "uploads/dmar2021/L2-what-is-planning.pdf" "newtab" %}}Slides{{% /staticref %}}  &nbsp; |
+| What is Decision-Making?      |  &nbsp; [Video](https://youtu.be/DEv-ahz8DAg)       &nbsp; |   &nbsp; {{% staticref "uploads/dmar2021/L3-what-is-decision-making.pdf" "newtab" %}}Slides{{% /staticref %}}  &nbsp; |
+| Search-based Methods      |  &nbsp; [Video](https://youtu.be/0MpUAHUEXX0)       &nbsp; |  &nbsp; {{% staticref "uploads/dmar2021/L4-search-based-methods.pdf" "newtab" %}}Slides{{% /staticref %}}  &nbsp; |
+| Sampling-based Methods      |  &nbsp; [Video](https://youtu.be/CrQJAtPn8sY)       &nbsp; |  &nbsp; {{% staticref "uploads/dmar2021/L5-sampling-based-methods.pdf" "newtab" %}}Slides{{% /staticref %}}   &nbsp; |
+| Reinforcement Learning      |  &nbsp; [Video](https://youtu.be/wqZ7xeXFtWI)       &nbsp; |  &nbsp; {{% staticref "uploads/dmar2021/L6-reinforcement-learning.pdf" "newtab" %}}Slides{{% /staticref %}}   &nbsp; |
+| Decision-Making Under Uncertainty      |  &nbsp; [Video](https://youtu.be/0Bqe_58aSVQ)      |  &nbsp; {{% staticref "uploads/dmar2021/L7-decision-making-under-uncertainty.pdf" "newtab" %}}Slides{{% /staticref %}}  &nbsp; |
+| Exploration and Informative Planning   &nbsp; &nbsp;  &nbsp;  &nbsp;   |  &nbsp; [Video](https://youtu.be/3w5YIYN-y8o)      &nbsp; |  &nbsp; {{% staticref "uploads/dmar2021/L8-exploration-informative-planning.pdf" "newtab" %}}Slides{{% /staticref %}}   &nbsp; |
+| Multi-Robot Planning      |  &nbsp; [Video](https://youtu.be/Wcvw8qyUan8)     &nbsp;  |  &nbsp;  {{% staticref "uploads/dmar2021/L9-multi-robot.pdf" "newtab" %}}Slides{{% /staticref %}}  &nbsp; |
 
 [**Link to YouTube Playlist**](https://www.youtube.com/playlist?list=PLc1eN74aP8bD8-eDYE0Ojzp6Z9UFfmgpa)
