@@ -32,5 +32,5 @@ design:
 # News
 &nbsp;
 * **October 2021**. We are hiring a new PhD student in our research group [[link to advertisement](http://bit.ly/3BxSKC8)]. Apply by end of month to mpopovic@uni-bonn.de.
-* **October 2021**. Welcome to [Jonas Westheider](({{< relref "/authors/jonas" >}})) - new Master student in our research group! 
+* **October 2021**. Welcome to [Jonas Westheider]({{< relref "/authors/jonas" >}}) - new Master student in our research group! 
 * **October 2021**. New website is up!
