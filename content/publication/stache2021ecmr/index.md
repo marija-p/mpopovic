@@ -6,7 +6,7 @@ title: "Adaptive Path Planning for UAV-based Multi-Resolution Semantic Segmentat
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Felix Stache
-- Jonas Westheider
+- jonas
 - Federico Magistri
 - admin
 - Cyrill Stachniss

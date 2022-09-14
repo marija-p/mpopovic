@@ -6,7 +6,7 @@ title: Jonas Westheider
 superuser: false
 
 # Role/position/tagline
-role: Master student
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,7 +68,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: ["Master Students"] 
+user_groups: ["PhD Students"] 
 
 authors:
   - jonas

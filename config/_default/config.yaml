@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Marija Popović # Website name
+title: DMAR Bonn # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '© 2021 Marija Popović' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 DMAR Bonn' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -67,3 +67,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+      
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

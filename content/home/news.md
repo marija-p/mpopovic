@@ -30,8 +30,4 @@ design:
 ---
 
 # News
-&nbsp;
-* **November 2021**. I became Junior Co-Chair of the [IEEE RAS Technical Committee on Agricultural Robotics and Automation](http://ieeeagra.com/)!
-* **October 2021**. We are hiring a new PhD student in our research group.
-* **October 2021**. Welcome to [Jonas Westheider]({{< relref "/authors/jonas" >}}) - new Master student in our research group! 
-* **October 2021**. New website is up!
+* **September 2022**. Our group website is up!

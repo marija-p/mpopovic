@@ -1,5 +1,5 @@
 ---
-title: Decision-Making for Autonomous Robots [2021, IGG]
+title: "Course: Decision-Making for Autonomous Robots [2021, IGG]"
 summary: 3 ECTS module at the Institute of Geodesy and Geoinformation, University of Bonn. [Videos + Slides]
 tags:
 date: "2021-07-30T00:00:00Z"

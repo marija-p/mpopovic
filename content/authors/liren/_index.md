@@ -74,4 +74,4 @@ authors:
 
 ---
 
-I am a Doctoral student working on mobile robot perception. My research focuses on probabilistic mapping approaches, which enable mobile robots to understand their working environment and make decisions autonomously.
+I am a doctoral student working on robot perception. My research focuses on different map representations and their applications in mobile robots, e.g., UAV-based active sensing in agricultural scenarios. The goal of my research is developing efficient mapping algorithms that help autonomous robots make decisions in an unknown environment.
