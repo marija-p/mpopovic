@@ -31,7 +31,7 @@ organizations:
     
 # Interests to show in About widget
 interests:
-- Autonomous decision-making
+- Integrated planning and learning
 - Planning/coordination
 - Environmental mapping
 

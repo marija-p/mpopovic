@@ -14,6 +14,7 @@ content:
     - Group Leader
     - PhD Students
     - Master Students
+    - Student Assistants
 design:
   # Show user's social networking links? (true/false)
   show_social: true
