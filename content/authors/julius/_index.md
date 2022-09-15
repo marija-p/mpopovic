@@ -31,8 +31,9 @@ organizations:
     
 # Interests to show in About widget
 interests:
-- Planning/coordination
+- Integrated planning and learning
 - Reinforcement learning
+- Active learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,4 +76,4 @@ authors:
 
 ---
 
-I am a Doctoral student in Robotics with a focus on active sensing and reinforcement learning. Currently, I am working on planning and coordination algorithms for single- and multi-robot applications in agriculture. My research aims to enable autonomous decision-making for agricultural robots and automated field monitoring and intervention.
+Hey, I am Julius! I am a Doctoral student in Robotics at the University of Bonn and Cluster of Excellence "PhenoRob" since February 2021. Before starting in Bonn, I did my Master in Mathematics in Data Science at the Technical University of Munich, Germany (Oct 2018 - Dec 2020). In the 2019 season, I led a team of computer science and engineering students to build an autonomous formula racecar that competed in international Formula Student competitions. During my Master's, I worked for Merantix Momentum (Berlin, Germany), a machine-learning solutions provider, as a Machine Intelligence Engineer developing machine-learning software for mid-sized enterprises and large corporations.
