@@ -30,4 +30,5 @@ design:
 ---
 
 # News
+* **September 2022**. Our journal article "Adaptive Path Planning for UAVs for Multi-Resolution Semantic Segmentation" is accepted to Robotics and Autonomous Systems.
 * **September 2022**. Our group website is up!
