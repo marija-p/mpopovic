@@ -1,8 +1,7 @@
 ---
-title: Example Talk
+title: "RAL-IROS22: Adaptive-Resolution Field Mapping Using GP Fusion with Integral Kernels"
 
-event: Talk event
-event_url: https://example.org
+event: RAL-IROS 2022
 
 #location: Wowchemy HQ
 #address:
@@ -12,17 +11,16 @@ event_url: https://example.org
 #  postcode: '94305'
 #  country: United States
 
-summary: Talk 1.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 'Liren Jin. "Adaptive-Resolution Field Mapping Using GP Fusion with Integral Kernels," RAL-IROS 2022.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-10-22T00:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-05-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -30,19 +28,20 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
+  preview_only: true
 
-links:
+links: 
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2109.14257"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/lGFG70wIG4o"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,3 +58,10 @@ slides: ""
 projects:
 - []
 ---
+
+<iframe width="700" height="393.75" src="https://youtu.be/lGFG70wIG4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Jin, L., Rückin J., Kiss, S. H., and Vidal-Calleja, T., and Popović, M., "Adaptive-Resolution Field Mapping Using GP Fusion with Integral Kernels," IEEE Robotics and Automation Letters (RA-L),  vol.7, pp.7471-7478, 2022. doi: 10.1109/LRA.2022.3183797
+
+PDF: https://arxiv.org/abs/2109.14257  
+Presentation: https://youtu.be/lGFG70wIG4o

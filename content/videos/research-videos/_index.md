@@ -12,8 +12,10 @@ header:
   caption: ""
   image: ""
 
+image:
+  preview_only: true
+
+
 show_date: false
 
 ---
-
-This page is under construction. We will upload links to our research videos and talks.
